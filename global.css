@@ -1,0 +1,74 @@
+.sidebar
+            {
+                height: 700px;
+                width: 150px;
+                background-color: pink;
+            
+            }
+            .Piget
+            {
+            color: white;
+            font-family: "Titan One", serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 45px;
+            margin-left: 15px;
+            }
+            .stats
+            {
+                text-decoration: none;
+                background-color: pink;
+                margin-left: 50px;
+                border: none;
+                font-size: 20px;
+            }
+            .chat
+            {
+                font-size: 20px;
+                margin-left: 50px;
+                background-color: pink;
+                border: none;
+            }
+            .market
+            {
+                font-size: 20px;
+                margin-left: 35px;
+                background-color: pink;
+                border: none;
+            }
+            .blooks
+            {
+                font-size: 20px;
+                margin-left: 35px;
+                background-color: pink;
+                border: none;
+            }
+            .discover
+            {
+                font-size: 20px;
+                margin-left: 25px;
+                background-color: pink;
+                border: none;
+            }
+            .set
+            {
+                font-size: 20px;
+                margin-left: 15px;
+                background-color: pink;
+                border: none;
+            }
+           .Map
+           {
+                font-size: 20px;
+                margin-left: 15px;
+                background-color: pink;
+                border: none;
+           }
+           .Store
+           {
+                align-self: center;
+                margin-left: 45px;
+                font-size: 20px;
+                background-color: pink;
+                border: none;
+           }
